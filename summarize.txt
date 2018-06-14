@@ -1,0 +1,948 @@
+
+$subject
+$subject$variableType
+Variable type: integer
+$subject$countMissing
+Number of missing obs.: 0 (0 %)
+$subject$uniqueValues
+Number of unique values: 30
+$subject$centralValue
+Median: 15.5
+$subject$quartiles
+1st and 3rd quartiles: 8; 23
+$subject$minMax
+Min. and max.: 1; 30
+
+$activity
+$activity$variableType
+Variable type: factor
+$activity$countMissing
+Number of missing obs.: 0 (0 %)
+$activity$uniqueValues
+Number of unique values: 6
+$activity$centralValue
+Mode: "LAYING"
+
+$timebodyaccmean_x
+$timebodyaccmean_x$variableType
+Variable type: numeric
+$timebodyaccmean_x$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccmean_x$uniqueValues
+Number of unique values: 180
+$timebodyaccmean_x$centralValue
+Median: 0.28
+$timebodyaccmean_x$quartiles
+1st and 3rd quartiles: 0.27; 0.28
+$timebodyaccmean_x$minMax
+Min. and max.: 0.22; 0.3
+
+$timebodyaccmean_y
+$timebodyaccmean_y$variableType
+Variable type: numeric
+$timebodyaccmean_y$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccmean_y$uniqueValues
+Number of unique values: 180
+$timebodyaccmean_y$centralValue
+Median: -0.02
+$timebodyaccmean_y$quartiles
+1st and 3rd quartiles: -0.02; -0.01
+$timebodyaccmean_y$minMax
+Min. and max.: -0.04; 0
+
+$timebodyaccmean_z
+$timebodyaccmean_z$variableType
+Variable type: numeric
+$timebodyaccmean_z$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccmean_z$uniqueValues
+Number of unique values: 180
+$timebodyaccmean_z$centralValue
+Median: -0.11
+$timebodyaccmean_z$quartiles
+1st and 3rd quartiles: -0.11; -0.1
+$timebodyaccmean_z$minMax
+Min. and max.: -0.15; -0.08
+
+$timebodyaccstd_x
+$timebodyaccstd_x$variableType
+Variable type: numeric
+$timebodyaccstd_x$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccstd_x$uniqueValues
+Number of unique values: 180
+$timebodyaccstd_x$centralValue
+Median: -0.75
+$timebodyaccstd_x$quartiles
+1st and 3rd quartiles: -0.98; -0.2
+$timebodyaccstd_x$minMax
+Min. and max.: -1; 0.63
+
+$timebodyaccstd_y
+$timebodyaccstd_y$variableType
+Variable type: numeric
+$timebodyaccstd_y$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccstd_y$uniqueValues
+Number of unique values: 180
+$timebodyaccstd_y$centralValue
+Median: -0.51
+$timebodyaccstd_y$quartiles
+1st and 3rd quartiles: -0.94; -0.03
+$timebodyaccstd_y$minMax
+Min. and max.: -0.99; 0.62
+
+$timebodyaccstd_z
+$timebodyaccstd_z$variableType
+Variable type: numeric
+$timebodyaccstd_z$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccstd_z$uniqueValues
+Number of unique values: 180
+$timebodyaccstd_z$centralValue
+Median: -0.65
+$timebodyaccstd_z$quartiles
+1st and 3rd quartiles: -0.95; -0.23
+$timebodyaccstd_z$minMax
+Min. and max.: -0.99; 0.61
+
+$timegravityaccmean_x
+$timegravityaccmean_x$variableType
+Variable type: numeric
+$timegravityaccmean_x$countMissing
+Number of missing obs.: 0 (0 %)
+$timegravityaccmean_x$uniqueValues
+Number of unique values: 180
+$timegravityaccmean_x$centralValue
+Median: 0.92
+$timegravityaccmean_x$quartiles
+1st and 3rd quartiles: 0.84; 0.94
+$timegravityaccmean_x$minMax
+Min. and max.: -0.68; 0.97
+
+$timegravityaccmean_y
+$timegravityaccmean_y$variableType
+Variable type: numeric
+$timegravityaccmean_y$countMissing
+Number of missing obs.: 0 (0 %)
+$timegravityaccmean_y$uniqueValues
+Number of unique values: 180
+$timegravityaccmean_y$centralValue
+Median: -0.13
+$timegravityaccmean_y$quartiles
+1st and 3rd quartiles: -0.23; 0.09
+$timegravityaccmean_y$minMax
+Min. and max.: -0.48; 0.96
+
+$timegravityaccmean_z
+$timegravityaccmean_z$variableType
+Variable type: numeric
+$timegravityaccmean_z$countMissing
+Number of missing obs.: 0 (0 %)
+$timegravityaccmean_z$uniqueValues
+Number of unique values: 180
+$timegravityaccmean_z$centralValue
+Median: 0.02
+$timegravityaccmean_z$quartiles
+1st and 3rd quartiles: -0.12; 0.15
+$timegravityaccmean_z$minMax
+Min. and max.: -0.5; 0.96
+
+$timegravityaccstd_x
+$timegravityaccstd_x$variableType
+Variable type: numeric
+$timegravityaccstd_x$countMissing
+Number of missing obs.: 0 (0 %)
+$timegravityaccstd_x$uniqueValues
+Number of unique values: 180
+$timegravityaccstd_x$centralValue
+Median: -0.97
+$timegravityaccstd_x$quartiles
+1st and 3rd quartiles: -0.98; -0.95
+$timegravityaccstd_x$minMax
+Min. and max.: -1; -0.83
+
+$timegravityaccstd_y
+$timegravityaccstd_y$variableType
+Variable type: numeric
+$timegravityaccstd_y$countMissing
+Number of missing obs.: 0 (0 %)
+$timegravityaccstd_y$uniqueValues
+Number of unique values: 180
+$timegravityaccstd_y$centralValue
+Median: -0.96
+$timegravityaccstd_y$quartiles
+1st and 3rd quartiles: -0.97; -0.94
+$timegravityaccstd_y$minMax
+Min. and max.: -0.99; -0.64
+
+$timegravityaccstd_z
+$timegravityaccstd_z$variableType
+Variable type: numeric
+$timegravityaccstd_z$countMissing
+Number of missing obs.: 0 (0 %)
+$timegravityaccstd_z$uniqueValues
+Number of unique values: 180
+$timegravityaccstd_z$centralValue
+Median: -0.95
+$timegravityaccstd_z$quartiles
+1st and 3rd quartiles: -0.96; -0.92
+$timegravityaccstd_z$minMax
+Min. and max.: -0.99; -0.61
+
+$timebodyaccjerkmean_x
+$timebodyaccjerkmean_x$variableType
+Variable type: numeric
+$timebodyaccjerkmean_x$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccjerkmean_x$uniqueValues
+Number of unique values: 180
+$timebodyaccjerkmean_x$centralValue
+Median: 0.08
+$timebodyaccjerkmean_x$quartiles
+1st and 3rd quartiles: 0.07; 0.08
+$timebodyaccjerkmean_x$minMax
+Min. and max.: 0.04; 0.13
+
+$timebodyaccjerkmean_y
+$timebodyaccjerkmean_y$variableType
+Variable type: numeric
+$timebodyaccjerkmean_y$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccjerkmean_y$uniqueValues
+Number of unique values: 180
+$timebodyaccjerkmean_y$centralValue
+Median: 0.01
+$timebodyaccjerkmean_y$quartiles
+1st and 3rd quartiles: 0; 0.01
+$timebodyaccjerkmean_y$minMax
+Min. and max.: -0.04; 0.06
+
+$timebodyaccjerkmean_z
+$timebodyaccjerkmean_z$variableType
+Variable type: numeric
+$timebodyaccjerkmean_z$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccjerkmean_z$uniqueValues
+Number of unique values: 180
+$timebodyaccjerkmean_z$centralValue
+Median: 0
+$timebodyaccjerkmean_z$quartiles
+1st and 3rd quartiles: -0.01; 0
+$timebodyaccjerkmean_z$minMax
+Min. and max.: -0.07; 0.04
+
+$timebodyaccjerkstd_x
+$timebodyaccjerkstd_x$variableType
+Variable type: numeric
+$timebodyaccjerkstd_x$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccjerkstd_x$uniqueValues
+Number of unique values: 180
+$timebodyaccjerkstd_x$centralValue
+Median: -0.81
+$timebodyaccjerkstd_x$quartiles
+1st and 3rd quartiles: -0.98; -0.22
+$timebodyaccjerkstd_x$minMax
+Min. and max.: -0.99; 0.54
+
+$timebodyaccjerkstd_y
+$timebodyaccjerkstd_y$variableType
+Variable type: numeric
+$timebodyaccjerkstd_y$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccjerkstd_y$uniqueValues
+Number of unique values: 180
+$timebodyaccjerkstd_y$centralValue
+Median: -0.78
+$timebodyaccjerkstd_y$quartiles
+1st and 3rd quartiles: -0.97; -0.15
+$timebodyaccjerkstd_y$minMax
+Min. and max.: -0.99; 0.36
+
+$timebodyaccjerkstd_z
+$timebodyaccjerkstd_z$variableType
+Variable type: numeric
+$timebodyaccjerkstd_z$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccjerkstd_z$uniqueValues
+Number of unique values: 180
+$timebodyaccjerkstd_z$centralValue
+Median: -0.88
+$timebodyaccjerkstd_z$quartiles
+1st and 3rd quartiles: -0.98; -0.51
+$timebodyaccjerkstd_z$minMax
+Min. and max.: -0.99; 0.03
+
+$timebodygyromean_x
+$timebodygyromean_x$variableType
+Variable type: numeric
+$timebodygyromean_x$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyromean_x$uniqueValues
+Number of unique values: 180
+$timebodygyromean_x$centralValue
+Median: -0.03
+$timebodygyromean_x$quartiles
+1st and 3rd quartiles: -0.05; -0.02
+$timebodygyromean_x$minMax
+Min. and max.: -0.21; 0.19
+
+$timebodygyromean_y
+$timebodygyromean_y$variableType
+Variable type: numeric
+$timebodygyromean_y$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyromean_y$uniqueValues
+Number of unique values: 180
+$timebodygyromean_y$centralValue
+Median: -0.07
+$timebodygyromean_y$quartiles
+1st and 3rd quartiles: -0.09; -0.06
+$timebodygyromean_y$minMax
+Min. and max.: -0.2; 0.03
+
+$timebodygyromean_z
+$timebodygyromean_z$variableType
+Variable type: numeric
+$timebodygyromean_z$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyromean_z$uniqueValues
+Number of unique values: 180
+$timebodygyromean_z$centralValue
+Median: 0.09
+$timebodygyromean_z$quartiles
+1st and 3rd quartiles: 0.07; 0.1
+$timebodygyromean_z$minMax
+Min. and max.: -0.07; 0.18
+
+$timebodygyrostd_x
+$timebodygyrostd_x$variableType
+Variable type: numeric
+$timebodygyrostd_x$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyrostd_x$uniqueValues
+Number of unique values: 180
+$timebodygyrostd_x$centralValue
+Median: -0.79
+$timebodygyrostd_x$quartiles
+1st and 3rd quartiles: -0.97; -0.44
+$timebodygyrostd_x$minMax
+Min. and max.: -0.99; 0.27
+
+$timebodygyrostd_y
+$timebodygyrostd_y$variableType
+Variable type: numeric
+$timebodygyrostd_y$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyrostd_y$uniqueValues
+Number of unique values: 180
+$timebodygyrostd_y$centralValue
+Median: -0.8
+$timebodygyrostd_y$quartiles
+1st and 3rd quartiles: -0.96; -0.42
+$timebodygyrostd_y$minMax
+Min. and max.: -0.99; 0.48
+
+$timebodygyrostd_z
+$timebodygyrostd_z$variableType
+Variable type: numeric
+$timebodygyrostd_z$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyrostd_z$uniqueValues
+Number of unique values: 180
+$timebodygyrostd_z$centralValue
+Median: -0.8
+$timebodygyrostd_z$quartiles
+1st and 3rd quartiles: -0.96; -0.31
+$timebodygyrostd_z$minMax
+Min. and max.: -0.99; 0.56
+
+$timebodygyrojerkmean_x
+$timebodygyrojerkmean_x$variableType
+Variable type: numeric
+$timebodygyrojerkmean_x$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyrojerkmean_x$uniqueValues
+Number of unique values: 180
+$timebodygyrojerkmean_x$centralValue
+Median: -0.1
+$timebodygyrojerkmean_x$quartiles
+1st and 3rd quartiles: -0.1; -0.09
+$timebodygyrojerkmean_x$minMax
+Min. and max.: -0.16; -0.02
+
+$timebodygyrojerkmean_y
+$timebodygyrojerkmean_y$variableType
+Variable type: numeric
+$timebodygyrojerkmean_y$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyrojerkmean_y$uniqueValues
+Number of unique values: 180
+$timebodygyrojerkmean_y$centralValue
+Median: -0.04
+$timebodygyrojerkmean_y$quartiles
+1st and 3rd quartiles: -0.05; -0.04
+$timebodygyrojerkmean_y$minMax
+Min. and max.: -0.08; -0.01
+
+$timebodygyrojerkmean_z
+$timebodygyrojerkmean_z$variableType
+Variable type: numeric
+$timebodygyrojerkmean_z$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyrojerkmean_z$uniqueValues
+Number of unique values: 180
+$timebodygyrojerkmean_z$centralValue
+Median: -0.05
+$timebodygyrojerkmean_z$quartiles
+1st and 3rd quartiles: -0.06; -0.05
+$timebodygyrojerkmean_z$minMax
+Min. and max.: -0.09; -0.01
+
+$timebodygyrojerkstd_x
+$timebodygyrojerkstd_x$variableType
+Variable type: numeric
+$timebodygyrojerkstd_x$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyrojerkstd_x$uniqueValues
+Number of unique values: 180
+$timebodygyrojerkstd_x$centralValue
+Median: -0.84
+$timebodygyrojerkstd_x$quartiles
+1st and 3rd quartiles: -0.98; -0.46
+$timebodygyrojerkstd_x$minMax
+Min. and max.: -1; 0.18
+
+$timebodygyrojerkstd_y
+$timebodygyrojerkstd_y$variableType
+Variable type: numeric
+$timebodygyrojerkstd_y$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyrojerkstd_y$uniqueValues
+Number of unique values: 180
+$timebodygyrojerkstd_y$centralValue
+Median: -0.89
+$timebodygyrojerkstd_y$quartiles
+1st and 3rd quartiles: -0.98; -0.59
+$timebodygyrojerkstd_y$minMax
+Min. and max.: -1; 0.3
+
+$timebodygyrojerkstd_z
+$timebodygyrojerkstd_z$variableType
+Variable type: numeric
+$timebodygyrojerkstd_z$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyrojerkstd_z$uniqueValues
+Number of unique values: 180
+$timebodygyrojerkstd_z$centralValue
+Median: -0.86
+$timebodygyrojerkstd_z$quartiles
+1st and 3rd quartiles: -0.98; -0.47
+$timebodygyrojerkstd_z$minMax
+Min. and max.: -1; 0.19
+
+$timebodyaccmagmean
+$timebodyaccmagmean$variableType
+Variable type: numeric
+$timebodyaccmagmean$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccmagmean$uniqueValues
+Number of unique values: 180
+$timebodyaccmagmean$centralValue
+Median: -0.48
+$timebodyaccmagmean$quartiles
+1st and 3rd quartiles: -0.96; -0.09
+$timebodyaccmagmean$minMax
+Min. and max.: -0.99; 0.64
+
+$timebodyaccmagstd
+$timebodyaccmagstd$variableType
+Variable type: numeric
+$timebodyaccmagstd$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccmagstd$uniqueValues
+Number of unique values: 180
+$timebodyaccmagstd$centralValue
+Median: -0.61
+$timebodyaccmagstd$quartiles
+1st and 3rd quartiles: -0.94; -0.21
+$timebodyaccmagstd$minMax
+Min. and max.: -0.99; 0.43
+
+$timegravityaccmagmean
+$timegravityaccmagmean$variableType
+Variable type: numeric
+$timegravityaccmagmean$countMissing
+Number of missing obs.: 0 (0 %)
+$timegravityaccmagmean$uniqueValues
+Number of unique values: 180
+$timegravityaccmagmean$centralValue
+Median: -0.48
+$timegravityaccmagmean$quartiles
+1st and 3rd quartiles: -0.96; -0.09
+$timegravityaccmagmean$minMax
+Min. and max.: -0.99; 0.64
+
+$timegravityaccmagstd
+$timegravityaccmagstd$variableType
+Variable type: numeric
+$timegravityaccmagstd$countMissing
+Number of missing obs.: 0 (0 %)
+$timegravityaccmagstd$uniqueValues
+Number of unique values: 180
+$timegravityaccmagstd$centralValue
+Median: -0.61
+$timegravityaccmagstd$quartiles
+1st and 3rd quartiles: -0.94; -0.21
+$timegravityaccmagstd$minMax
+Min. and max.: -0.99; 0.43
+
+$timebodyaccjerkmagmean
+$timebodyaccjerkmagmean$variableType
+Variable type: numeric
+$timebodyaccjerkmagmean$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccjerkmagmean$uniqueValues
+Number of unique values: 180
+$timebodyaccjerkmagmean$centralValue
+Median: -0.82
+$timebodyaccjerkmagmean$quartiles
+1st and 3rd quartiles: -0.98; -0.25
+$timebodyaccjerkmagmean$minMax
+Min. and max.: -0.99; 0.43
+
+$timebodyaccjerkmagstd
+$timebodyaccjerkmagstd$variableType
+Variable type: numeric
+$timebodyaccjerkmagstd$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodyaccjerkmagstd$uniqueValues
+Number of unique values: 180
+$timebodyaccjerkmagstd$centralValue
+Median: -0.8
+$timebodyaccjerkmagstd$quartiles
+1st and 3rd quartiles: -0.98; -0.22
+$timebodyaccjerkmagstd$minMax
+Min. and max.: -0.99; 0.45
+
+$timebodygyromagmean
+$timebodygyromagmean$variableType
+Variable type: numeric
+$timebodygyromagmean$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyromagmean$uniqueValues
+Number of unique values: 180
+$timebodygyromagmean$centralValue
+Median: -0.66
+$timebodygyromagmean$quartiles
+1st and 3rd quartiles: -0.95; -0.22
+$timebodygyromagmean$minMax
+Min. and max.: -0.98; 0.42
+
+$timebodygyromagstd
+$timebodygyromagstd$variableType
+Variable type: numeric
+$timebodygyromagstd$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyromagstd$uniqueValues
+Number of unique values: 180
+$timebodygyromagstd$centralValue
+Median: -0.74
+$timebodygyromagstd$quartiles
+1st and 3rd quartiles: -0.95; -0.36
+$timebodygyromagstd$minMax
+Min. and max.: -0.98; 0.3
+
+$timebodygyrojerkmagmean
+$timebodygyrojerkmagmean$variableType
+Variable type: numeric
+$timebodygyrojerkmagmean$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyrojerkmagmean$uniqueValues
+Number of unique values: 180
+$timebodygyrojerkmagmean$centralValue
+Median: -0.86
+$timebodygyrojerkmagmean$quartiles
+1st and 3rd quartiles: -0.99; -0.51
+$timebodygyrojerkmagmean$minMax
+Min. and max.: -1; 0.09
+
+$timebodygyrojerkmagstd
+$timebodygyrojerkmagstd$variableType
+Variable type: numeric
+$timebodygyrojerkmagstd$countMissing
+Number of missing obs.: 0 (0 %)
+$timebodygyrojerkmagstd$uniqueValues
+Number of unique values: 180
+$timebodygyrojerkmagstd$centralValue
+Median: -0.88
+$timebodygyrojerkmagstd$quartiles
+1st and 3rd quartiles: -0.98; -0.58
+$timebodygyrojerkmagstd$minMax
+Min. and max.: -1; 0.25
+
+$freqbodyaccmean_x
+$freqbodyaccmean_x$variableType
+Variable type: numeric
+$freqbodyaccmean_x$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccmean_x$uniqueValues
+Number of unique values: 180
+$freqbodyaccmean_x$centralValue
+Median: -0.77
+$freqbodyaccmean_x$quartiles
+1st and 3rd quartiles: -0.98; -0.22
+$freqbodyaccmean_x$minMax
+Min. and max.: -1; 0.54
+
+$freqbodyaccmean_y
+$freqbodyaccmean_y$variableType
+Variable type: numeric
+$freqbodyaccmean_y$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccmean_y$uniqueValues
+Number of unique values: 180
+$freqbodyaccmean_y$centralValue
+Median: -0.59
+$freqbodyaccmean_y$quartiles
+1st and 3rd quartiles: -0.95; -0.06
+$freqbodyaccmean_y$minMax
+Min. and max.: -0.99; 0.52
+
+$freqbodyaccmean_z
+$freqbodyaccmean_z$variableType
+Variable type: numeric
+$freqbodyaccmean_z$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccmean_z$uniqueValues
+Number of unique values: 180
+$freqbodyaccmean_z$centralValue
+Median: -0.72
+$freqbodyaccmean_z$quartiles
+1st and 3rd quartiles: -0.96; -0.32
+$freqbodyaccmean_z$minMax
+Min. and max.: -0.99; 0.28
+
+$freqbodyaccstd_x
+$freqbodyaccstd_x$variableType
+Variable type: numeric
+$freqbodyaccstd_x$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccstd_x$uniqueValues
+Number of unique values: 180
+$freqbodyaccstd_x$centralValue
+Median: -0.75
+$freqbodyaccstd_x$quartiles
+1st and 3rd quartiles: -0.98; -0.2
+$freqbodyaccstd_x$minMax
+Min. and max.: -1; 0.66
+
+$freqbodyaccstd_y
+$freqbodyaccstd_y$variableType
+Variable type: numeric
+$freqbodyaccstd_y$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccstd_y$uniqueValues
+Number of unique values: 180
+$freqbodyaccstd_y$centralValue
+Median: -0.51
+$freqbodyaccstd_y$quartiles
+1st and 3rd quartiles: -0.94; -0.08
+$freqbodyaccstd_y$minMax
+Min. and max.: -0.99; 0.56
+
+$freqbodyaccstd_z
+$freqbodyaccstd_z$variableType
+Variable type: numeric
+$freqbodyaccstd_z$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccstd_z$uniqueValues
+Number of unique values: 180
+$freqbodyaccstd_z$centralValue
+Median: -0.64
+$freqbodyaccstd_z$quartiles
+1st and 3rd quartiles: -0.95; -0.27
+$freqbodyaccstd_z$minMax
+Min. and max.: -0.99; 0.69
+
+$freqbodyaccjerkmean_x
+$freqbodyaccjerkmean_x$variableType
+Variable type: numeric
+$freqbodyaccjerkmean_x$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccjerkmean_x$uniqueValues
+Number of unique values: 180
+$freqbodyaccjerkmean_x$centralValue
+Median: -0.81
+$freqbodyaccjerkmean_x$quartiles
+1st and 3rd quartiles: -0.98; -0.28
+$freqbodyaccjerkmean_x$minMax
+Min. and max.: -0.99; 0.47
+
+$freqbodyaccjerkmean_y
+$freqbodyaccjerkmean_y$variableType
+Variable type: numeric
+$freqbodyaccjerkmean_y$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccjerkmean_y$uniqueValues
+Number of unique values: 180
+$freqbodyaccjerkmean_y$centralValue
+Median: -0.78
+$freqbodyaccjerkmean_y$quartiles
+1st and 3rd quartiles: -0.97; -0.2
+$freqbodyaccjerkmean_y$minMax
+Min. and max.: -0.99; 0.28
+
+$freqbodyaccjerkmean_z
+$freqbodyaccjerkmean_z$variableType
+Variable type: numeric
+$freqbodyaccjerkmean_z$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccjerkmean_z$uniqueValues
+Number of unique values: 180
+$freqbodyaccjerkmean_z$centralValue
+Median: -0.87
+$freqbodyaccjerkmean_z$quartiles
+1st and 3rd quartiles: -0.98; -0.47
+$freqbodyaccjerkmean_z$minMax
+Min. and max.: -0.99; 0.16
+
+$freqbodyaccjerkstd_x
+$freqbodyaccjerkstd_x$variableType
+Variable type: numeric
+$freqbodyaccjerkstd_x$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccjerkstd_x$uniqueValues
+Number of unique values: 180
+$freqbodyaccjerkstd_x$centralValue
+Median: -0.83
+$freqbodyaccjerkstd_x$quartiles
+1st and 3rd quartiles: -0.98; -0.25
+$freqbodyaccjerkstd_x$minMax
+Min. and max.: -1; 0.48
+
+$freqbodyaccjerkstd_y
+$freqbodyaccjerkstd_y$variableType
+Variable type: numeric
+$freqbodyaccjerkstd_y$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccjerkstd_y$uniqueValues
+Number of unique values: 180
+$freqbodyaccjerkstd_y$centralValue
+Median: -0.79
+$freqbodyaccjerkstd_y$quartiles
+1st and 3rd quartiles: -0.97; -0.17
+$freqbodyaccjerkstd_y$minMax
+Min. and max.: -0.99; 0.35
+
+$freqbodyaccjerkstd_z
+$freqbodyaccjerkstd_z$variableType
+Variable type: numeric
+$freqbodyaccjerkstd_z$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccjerkstd_z$uniqueValues
+Number of unique values: 180
+$freqbodyaccjerkstd_z$centralValue
+Median: -0.9
+$freqbodyaccjerkstd_z$quartiles
+1st and 3rd quartiles: -0.98; -0.54
+$freqbodyaccjerkstd_z$minMax
+Min. and max.: -0.99; -0.01
+
+$freqbodygyromean_x
+$freqbodygyromean_x$variableType
+Variable type: numeric
+$freqbodygyromean_x$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodygyromean_x$uniqueValues
+Number of unique values: 180
+$freqbodygyromean_x$centralValue
+Median: -0.73
+$freqbodygyromean_x$quartiles
+1st and 3rd quartiles: -0.97; -0.34
+$freqbodygyromean_x$minMax
+Min. and max.: -0.99; 0.47
+
+$freqbodygyromean_y
+$freqbodygyromean_y$variableType
+Variable type: numeric
+$freqbodygyromean_y$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodygyromean_y$uniqueValues
+Number of unique values: 180
+$freqbodygyromean_y$centralValue
+Median: -0.81
+$freqbodygyromean_y$quartiles
+1st and 3rd quartiles: -0.97; -0.45
+$freqbodygyromean_y$minMax
+Min. and max.: -0.99; 0.33
+
+$freqbodygyromean_z
+$freqbodygyromean_z$variableType
+Variable type: numeric
+$freqbodygyromean_z$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodygyromean_z$uniqueValues
+Number of unique values: 180
+$freqbodygyromean_z$centralValue
+Median: -0.79
+$freqbodygyromean_z$quartiles
+1st and 3rd quartiles: -0.96; -0.26
+$freqbodygyromean_z$minMax
+Min. and max.: -0.99; 0.49
+
+$freqbodygyrostd_x
+$freqbodygyrostd_x$variableType
+Variable type: numeric
+$freqbodygyrostd_x$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodygyrostd_x$uniqueValues
+Number of unique values: 180
+$freqbodygyrostd_x$centralValue
+Median: -0.81
+$freqbodygyrostd_x$quartiles
+1st and 3rd quartiles: -0.98; -0.48
+$freqbodygyrostd_x$minMax
+Min. and max.: -0.99; 0.2
+
+$freqbodygyrostd_y
+$freqbodygyrostd_y$variableType
+Variable type: numeric
+$freqbodygyrostd_y$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodygyrostd_y$uniqueValues
+Number of unique values: 180
+$freqbodygyrostd_y$centralValue
+Median: -0.8
+$freqbodygyrostd_y$quartiles
+1st and 3rd quartiles: -0.96; -0.42
+$freqbodygyrostd_y$minMax
+Min. and max.: -0.99; 0.65
+
+$freqbodygyrostd_z
+$freqbodygyrostd_z$variableType
+Variable type: numeric
+$freqbodygyrostd_z$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodygyrostd_z$uniqueValues
+Number of unique values: 180
+$freqbodygyrostd_z$centralValue
+Median: -0.82
+$freqbodygyrostd_z$quartiles
+1st and 3rd quartiles: -0.96; -0.39
+$freqbodygyrostd_z$minMax
+Min. and max.: -0.99; 0.52
+
+$freqbodyaccmagmean
+$freqbodyaccmagmean$variableType
+Variable type: numeric
+$freqbodyaccmagmean$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccmagmean$uniqueValues
+Number of unique values: 180
+$freqbodyaccmagmean$centralValue
+Median: -0.67
+$freqbodyaccmagmean$quartiles
+1st and 3rd quartiles: -0.96; -0.16
+$freqbodyaccmagmean$minMax
+Min. and max.: -0.99; 0.59
+
+$freqbodyaccmagstd
+$freqbodyaccmagstd$variableType
+Variable type: numeric
+$freqbodyaccmagstd$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccmagstd$uniqueValues
+Number of unique values: 180
+$freqbodyaccmagstd$centralValue
+Median: -0.65
+$freqbodyaccmagstd$quartiles
+1st and 3rd quartiles: -0.95; -0.37
+$freqbodyaccmagstd$minMax
+Min. and max.: -0.99; 0.18
+
+$freqbodyaccjerkmagmean
+$freqbodyaccjerkmagmean$variableType
+Variable type: numeric
+$freqbodyaccjerkmagmean$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccjerkmagmean$uniqueValues
+Number of unique values: 180
+$freqbodyaccjerkmagmean$centralValue
+Median: -0.79
+$freqbodyaccjerkmagmean$quartiles
+1st and 3rd quartiles: -0.98; -0.19
+$freqbodyaccjerkmagmean$minMax
+Min. and max.: -0.99; 0.54
+
+$freqbodyaccjerkmagstd
+$freqbodyaccjerkmagstd$variableType
+Variable type: numeric
+$freqbodyaccjerkmagstd$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodyaccjerkmagstd$uniqueValues
+Number of unique values: 180
+$freqbodyaccjerkmagstd$centralValue
+Median: -0.81
+$freqbodyaccjerkmagstd$quartiles
+1st and 3rd quartiles: -0.98; -0.27
+$freqbodyaccjerkmagstd$minMax
+Min. and max.: -0.99; 0.32
+
+$freqbodygyromagmean
+$freqbodygyromagmean$variableType
+Variable type: numeric
+$freqbodygyromagmean$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodygyromagmean$uniqueValues
+Number of unique values: 180
+$freqbodygyromagmean$centralValue
+Median: -0.77
+$freqbodygyromagmean$quartiles
+1st and 3rd quartiles: -0.96; -0.41
+$freqbodygyromagmean$minMax
+Min. and max.: -0.99; 0.2
+
+$freqbodygyromagstd
+$freqbodygyromagstd$variableType
+Variable type: numeric
+$freqbodygyromagstd$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodygyromagstd$uniqueValues
+Number of unique values: 180
+$freqbodygyromagstd$centralValue
+Median: -0.77
+$freqbodygyromagstd$quartiles
+1st and 3rd quartiles: -0.95; -0.43
+$freqbodygyromagstd$minMax
+Min. and max.: -0.98; 0.24
+
+$freqbodygyrojerkmagmean
+$freqbodygyrojerkmagmean$variableType
+Variable type: numeric
+$freqbodygyrojerkmagmean$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodygyrojerkmagmean$uniqueValues
+Number of unique values: 180
+$freqbodygyrojerkmagmean$centralValue
+Median: -0.88
+$freqbodygyrojerkmagmean$quartiles
+1st and 3rd quartiles: -0.98; -0.58
+$freqbodygyrojerkmagmean$minMax
+Min. and max.: -1; 0.15
+
+$freqbodygyrojerkmagstd
+$freqbodygyrojerkmagstd$variableType
+Variable type: numeric
+$freqbodygyrojerkmagstd$countMissing
+Number of missing obs.: 0 (0 %)
+$freqbodygyrojerkmagstd$uniqueValues
+Number of unique values: 180
+$freqbodygyrojerkmagstd$centralValue
+Median: -0.89
+$freqbodygyrojerkmagstd$quartiles
+1st and 3rd quartiles: -0.98; -0.61
+$freqbodygyrojerkmagstd$minMax
+Min. and max.: -1; 0.29
