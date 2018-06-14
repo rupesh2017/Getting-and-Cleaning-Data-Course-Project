@@ -33,3 +33,15 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 #### Step during running script
 1. change directory location using **setwd()**
 2. final output is generated using **write.table()** and **write.csv()**
+
+
+##### Codebook
+There are **3 ** file 
+1.dataMaid_codebook.Rmd
+2.dataMaid_codebook.html
+3.codebook.md
+    * summarize.txt
+
+dataMaid_codebook.Rmd and dataMaid_codebook.html are output of makeDataReport(tidydata)
+codebook.md (as requested in project) (contains variable,units,deccription,summarize) but summarize output was extensive so 
+it is saved in summarize.txt
