@@ -45,5 +45,5 @@ There are **3 ** file
 
 dataMaid_codebook.Rmd and dataMaid_codebook.html are output of makeDataReport(tidydata)
 
-codebook.md (as requested in project) (contains variable,units,deccription,summarize) but summarize output was extensive so 
+codebook.md (as requested in project) (contains variable,units,description,summarize) but summarize output was extensive so 
 it is saved in summarize.txt
