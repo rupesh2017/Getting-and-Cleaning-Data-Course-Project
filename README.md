@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Course-Project
+https://github.com/rupesh2017/Getting-and-Cleaning-Data-Course-Project# Getting-and-Cleaning-Data-Course-Project
 Getting and Cleaning Data Course Project
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
@@ -35,8 +35,14 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 2. **run_analysis.R** execute the code to get ouput as tidy data set
 3. final output is generated using **write.table()** and **write.csv()**
 
+##### Step of run_analysis
+1. merge train and test files
+2. extract column number where mean and std is avaiable 
+3. change the activity id to activity names
+4. change names of dataset using features.txt
+5. use plyr package to grouping (activity and subject) and find mean for each column.
 
-##### Codebook
+###### Codebook
 There are **3 ** file 
 
 1. dataMaid_codebook.Rmd   (Download to view)
