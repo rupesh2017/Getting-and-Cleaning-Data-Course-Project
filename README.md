@@ -37,10 +37,16 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ### Step of run_analysis
 1. merge train and test files
+    * use cbind() or rbind()
 2. extract column number where mean and std is avaiable 
+    * use grep() 
 3. change the activity id to activity names
+    * use match()
 4. change names of dataset using features.txt
+    * use names(dataset) <- new_names
+    * make sure new_names is of character class not factor
 5. use plyr package to grouping (activity and subject) and find mean for each column.
+    * use ddply()
 
 ### Codebook
 There are 3  file 
