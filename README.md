@@ -43,7 +43,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 5. use plyr package to grouping (activity and subject) and find mean for each column.
 
 ### Codebook
-There are **3 ** file 
+There are 3  file 
 
 1. dataMaid_codebook.Rmd   (Download to view)
 2. dataMaid_codebook.html  (Download to view)
