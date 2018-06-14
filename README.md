@@ -38,8 +38,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ##### Codebook
 There are **3 ** file 
 
-1. dataMaid_codebook.Rmd
-2. dataMaid_codebook.html
+1. dataMaid_codebook.Rmd   (Download to view)
+2. dataMaid_codebook.html  (Download to view)
 3. codebook.md
     * summarize.txt
 
