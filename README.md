@@ -32,7 +32,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 #### Step during running script
 1. change directory location using **setwd()**
-2. final output is generated using **write.table()** and **write.csv()**
+2. **run_analysis.R** execute the code to get ouput as tidy data set
+3. final output is generated using **write.table()** and **write.csv()**
 
 
 ##### Codebook
